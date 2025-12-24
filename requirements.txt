@@ -1,1 +1,8 @@
 streamlit
+scikit-learn
+pandas
+seaborn
+matplotlib
+joblib
+streamlit-drawable-canvas
+opencv-python
