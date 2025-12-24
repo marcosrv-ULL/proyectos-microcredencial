@@ -5,4 +5,4 @@ seaborn
 matplotlib
 joblib
 streamlit-drawable-canvas
-opencv-python
+opencv-python-headless
